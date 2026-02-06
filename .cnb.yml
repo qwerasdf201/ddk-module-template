@@ -4,7 +4,7 @@ $:
       runner:
         cpus: 8
       docker:
-        image: docker.cnb.cool/ylarod/ddk/ddk-dev:android12-5.10
+        image: docker.cnb.cool/ylarod/ddk/ddk-dev:android15-6.6
       services:
         - vscode
         - docker
